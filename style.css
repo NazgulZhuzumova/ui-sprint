@@ -6,8 +6,8 @@
 @import url(components/card.css);
 @import url(components/badge.css);
 @import url(components/banner.css);
-/*@import url(Components/tabs.css)*/
-/*@import url(Components/list.css)*/
+@import url(components/tabs.css);
+@import url(components/product.css);
 
 /**--- Fonts---*/
 body{
